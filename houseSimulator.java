@@ -1,3 +1,7 @@
+/** @author Muhammet Fatih Ulu
+ *  @brief A Java program for simulating the distribution of student houses by using Java Collections Framework.
+ */
+ 
 import java.io.BufferedReader;
 import java.io.FileNotFoundException;
 import java.util.Collections;
@@ -8,7 +12,7 @@ import java.io.FileReader;
 import java.io.IOException;
 import java.io.File;
 
-public class project1main {
+public class houseSimulator {
 
 	public static void main(String[] args) throws IOException {
 		double t1 = (double) System.nanoTime();
