@@ -24,6 +24,9 @@ graduate. In your simulation, check for matching houses and students at
 every new semester. The output of your simulation is the list of students
 who cannot stay at any house.
 
+How to run:<br/>
+java houseSimulator /<inputfile/> <outputfile><br/>
+
 Input format:<br/>
 For houses:   h id duration rating<br/>
 For students: s id name duration rating<br/>
