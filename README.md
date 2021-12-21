@@ -1,8 +1,8 @@
-# house-simulator
+# House-simulator
 The aim of this project is to implement a Java program for simulating the distribution of student houses by using Java Collections Framework.
 
 
-# Details (Prepared by Ozlem Simsek)
+# Details (prepared by Ozlem Simsek)
 The University of Datalonya offers houses for the students. All houses
 are for one student only. But they can be in various conditions: old, new,
 needs renovation, broken oven, broken shower, new kitchen, new bed etc.
