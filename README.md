@@ -28,7 +28,7 @@ Input format:<br/>
 For houses:   h id duration rating<br/>
 For students: s id name duration rating<br/>
 
-Output format: (student names who couldn't stay at hose in ascending order of IDs)<br/>
+Output format (student names who couldn't stay at hose in ascending order of IDs):<br/>
 name<br/>
 
 Example:<br/>
