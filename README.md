@@ -25,7 +25,7 @@ every new semester. The output of your simulation is the list of students
 who cannot stay at any house.
 
 How to run:<br/>
-java houseSimulator /<inputfile/> <outputfile><br/>
+java houseSimulator inputfile outputfile<br/>
 
 Input format:<br/>
 For houses:   h id duration rating<br/>
