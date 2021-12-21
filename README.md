@@ -27,3 +27,20 @@ who cannot stay at any house.
 Input format:<br/>
 For houses:   h id duration rating<br/>
 For students: s id name duration rating<br/>
+
+Example:<br/>
+
+Input:<br/>
+h 1 0 8<br/>
+s 10 Ali 3 9<br/>
+h 2 0 4<br/>
+h 3 0 7<br/>
+s 11 Melis 3 9<br/>
+s 12 Ayse 5 4<br/>
+h 4 6 9<br/>
+s 13 Selim 5 3
+h 5 5 5<br/>
+
+Output:<br/>
+Ali<br/>
+Melis
