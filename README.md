@@ -24,6 +24,6 @@ graduate. In your simulation, check for matching houses and students at
 every new semester. The output of your simulation is the list of students
 who cannot stay at any house.
 
-Input format: 
-For houses:   h id duration rating
-For students: s id name duration rating
+Input format:<br/>
+For houses:   h id duration rating<br/>
+For students: s id name duration rating<br/>
