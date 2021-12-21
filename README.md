@@ -25,5 +25,5 @@ every new semester. The output of your simulation is the list of students
 who cannot stay at any house.
 
 Input format: 
-For houses:   h <id> <duration> <rating>
-For students: s <id> <name> <duration> <rating>
+For houses:   h id duration rating
+For students: s id name duration rating
