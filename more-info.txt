@@ -21,6 +21,8 @@ graduate. In your simulation, check for matching houses and students at
 every new semester. The output of your simulation is the list of students
 who cannot stay at any house.
 
+How to compile:
+javac ./houseSimulator.java -d . -release 17
 How to run:
 java houseSimulator inputfile outputfile
 
