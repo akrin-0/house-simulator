@@ -12,7 +12,7 @@ import java.io.FileReader;
 import java.io.IOException;
 import java.io.File;
 
-public class houseSimulator {
+public class house-simulator {
 
 	public static void main(String[] args) throws IOException {
 		double t1 = (double) System.nanoTime();
@@ -20,7 +20,7 @@ public class houseSimulator {
 		// Check if there is an issue with arguments.
 		if (args.length != 2) {
 			System.out.println("Error: Given arguments are not valid.");
-			System.out.println("Usage: java project1main <inputfile> <outputfile>");
+			System.out.println("Usage: java house-simulator <inputfile> <outputfile>");
 			System.exit(0);
 		} else {
 			
